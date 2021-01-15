@@ -1,2 +1,2 @@
-# assets
-Base assets repo
+# LenakeCo Assets
+This is LenakeCo assets repository base.
